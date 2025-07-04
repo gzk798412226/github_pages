@@ -1,0 +1,27 @@
+/* 自定义样式 - 调整列表页面字体大小 */
+
+/* 列表页面标题字体调整 */
+.list-title {
+    font-size: 0.9em !important;
+}
+
+/* 列表项字体调整 */
+.list-item .list-item-title a {
+    font-size: 0.95em !important;
+}
+
+/* 列表日期字体调整 */
+.list-item .list-item-time {
+    font-size: 0.85em !important;
+}
+
+/* 分类页面文章列表字体调整 */
+.term-count {
+    font-size: 0.85em !important;
+}
+
+/* 首页诗句字体调整 */
+.home-poetry {
+    font-size: 0.9em !important;
+    line-height: 1.8 !important;
+}
