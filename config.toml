@@ -2,11 +2,11 @@
 # 站点配置
 
 baseURL = "https://gzk798412226.github.io/"
-title = "Hugo 主题 MemE"
+title = "铅笔与橡皮"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = "copyright hugo"
 
 # 主题选择
 theme = "meme"
@@ -15,7 +15,7 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 
 # 标题大小写格式
@@ -1482,16 +1482,16 @@ uglyURLs = false
     # 作者信息
     [params.author]
         # 名字
-        name = "reuixiy"
+        name = "铅笔与橡皮"
         # 邮箱
-        email = "reuixiy@gmail.com"
+        email = "gzk798412226@gmail.com"
         # 座右铭或简介
-        motto = "Viva La Vida"
+        motto = "HelloWorld"
         # 头像
         avatar = "/icons/apple-touch-icon.png"
         # 网站（默认值：baseURL）
-        website = "https://io-oi.me/"
+        website = "https://gzk798412226.github.io/"
         # 推特
-        twitter = "reuixiy"
+        twitter = ""
         # Fediverse
-        fediverse = "@reuixiy@bird.makeup"
+        fediverse = ""
