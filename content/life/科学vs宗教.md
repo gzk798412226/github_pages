@@ -2,6 +2,8 @@
 title: "科学vs宗教"
 date: 2021-06-10T22:42:45+09:00
 draft: false
+categories: ["life"]
+tags: ["生活"]
 ---
 
 

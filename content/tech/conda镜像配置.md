@@ -2,6 +2,8 @@
 title: "Conda镜像配置"
 date: 2022-05-03T13:03:38+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 切换为清华源

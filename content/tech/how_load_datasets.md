@@ -2,6 +2,8 @@
 title: "SQUAD加载方式以及一键训练"
 date: 2022-03-04T19:47:06+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 # huggingface大法：

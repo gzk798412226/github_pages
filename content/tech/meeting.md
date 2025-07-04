@@ -2,6 +2,8 @@
 title: "cascading vs sliding windows"
 date: 2022-01-07T14:30:45Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 ![20220107233155](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220107233155.png)

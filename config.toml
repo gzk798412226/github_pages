@@ -52,6 +52,7 @@ uglyURLs = false
 
 # 类别
 [taxonomies]
+    category = "categories"
     tag = "tags"
 
 # 修改时间
@@ -187,13 +188,13 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
-        pageref = "/tech/"
+        pageref = "/categories/tech/"
         name = "Tech"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
-        pageref = "/life/"
+        pageref = "/categories/life/"
         name = "Life"
         weight = 4
         pre = "internal"
@@ -294,11 +295,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["我希望你读很多书", "走很远的路"," 我希望你爱很多人","也被很多人爱。 我希望你走过人山人海","也遍览山河湖海","我希望你看纸质书","送手写的祝福"," 我要你独立坚强温暖明亮","我要你在这寡淡的世上","深情的活"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -328,16 +329,16 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "这是자곤的生活与技术博客"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "1996-10-01T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = "gzk"
     # 说明：用于 Twitter Cards
 
 
@@ -358,7 +359,7 @@ uglyURLs = false
     # 的树状分类，故如需保留树状分类，建议适应
     # Hugo 的设计理念——分区。
 
-    categoryBy = "sections"
+    categoryBy = "categories"
     # 注意：如果你设置为 `sections`，请务必将
     #      此配置文件中的类别（taxonomies）中
     #      的 `categories` 删除，不然分类页

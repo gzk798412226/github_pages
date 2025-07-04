@@ -2,6 +2,8 @@
 title: "QT ---> Android"
 date: 2021-12-07T13:17:32Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 ## 忽然的心血来潮

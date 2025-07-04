@@ -2,6 +2,8 @@
 title: "NLI Data Sanity Check: Assessing the Effect of Data Corruption on Model Performance"
 date: 2022-01-07T23:58:17+09:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 ![20220107235911](https://raw.githubusercontent.com/Gzk738/vps_picgo/master/images/20220107235911.png)

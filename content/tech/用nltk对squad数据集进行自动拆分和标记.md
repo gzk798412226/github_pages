@@ -2,6 +2,8 @@
 title: "用nltk对squad数据集进行自动拆分和标记"
 date: 2022-04-06T15:16:43+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 最近使用可解释ai翻译bert模型，但是数据集太多导致的速度太慢，三台服务器要跑一周才能

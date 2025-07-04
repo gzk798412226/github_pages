@@ -2,6 +2,8 @@
 title: "如何安装java 17"
 date: 2022-01-28T15:12:38+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 首先，对于linux的教程就不写了，懂得都懂 :-)

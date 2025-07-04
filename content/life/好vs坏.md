@@ -2,6 +2,8 @@
 title: "好vs坏"
 date: 2022-02-25T14:59:45+08:00
 draft: false
+categories: ["life"]
+tags: ["生活"]
 ---
 
 一个非常有趣的哲学问题，什么是好人，什么是坏人。

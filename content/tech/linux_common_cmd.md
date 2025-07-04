@@ -2,6 +2,8 @@
 title: "Linux常用命令记录"
 date: 2022-01-26T17:04:33+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 

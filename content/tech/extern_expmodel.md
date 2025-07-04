@@ -2,6 +2,8 @@
 title: "外部exp模型以及平均值的梯度积分算法"
 date: 2022-01-11T11:07:30Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 # review
 ## Average cascading & average sliding windows

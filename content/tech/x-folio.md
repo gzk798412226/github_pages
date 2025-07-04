@@ -2,6 +2,8 @@
 title: "X Folio"
 date: 2022-07-21T17:56:03+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 # NTF是什么
 

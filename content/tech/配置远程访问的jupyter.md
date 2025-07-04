@@ -2,6 +2,8 @@
 title: "配置远程访问的jupyter"
 date: 2022-01-20T15:28:40+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 指定环境安装jupyter lab

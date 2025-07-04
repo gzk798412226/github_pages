@@ -2,6 +2,8 @@
 title: "在vps上搭建v2ray"
 date: 2022-01-17T13:56:41Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 # 使用命令安装v2ray

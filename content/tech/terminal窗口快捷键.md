@@ -2,6 +2,8 @@
 title: "Terminal窗口快捷键"
 date: 2022-04-06T16:36:54+08:00
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 windows terminal窗口快捷键：

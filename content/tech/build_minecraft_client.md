@@ -2,6 +2,8 @@
 title: "如何连接到minecraft服务器"
 date: 2022-01-16T12:59:51Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 这是教程的第二弹，如果你想搭建一个私有服务器的话，请查看：[搭建一个minecraft服务器(一) 服务端， https://guozikun.xyz/tech/搭建一个minecraft服务器/](https://guozikun.xyz/tech/搭建一个minecraft服务器/)

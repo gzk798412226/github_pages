@@ -2,6 +2,8 @@
 title: "搭建一个minecraft服务器"
 date: 2022-01-15T09:21:42Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 
 本文使用两种方法，推荐使用方法2，是一个一键搭建脚本，叫做papermc

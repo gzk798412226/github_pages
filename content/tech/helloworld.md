@@ -2,6 +2,8 @@
 title: "搭站常用命令"
 date: 2021-05-08T08:39:24Z
 draft: false
+categories: ["tech"]
+tags: ["技术"]
 ---
 常用命令，记录一下
 # Video

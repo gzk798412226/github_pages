@@ -2,6 +2,8 @@
 title: "粗读圣经"
 date: 2023-09-24T18:55:51+09:00
 draft: false
+categories: ["life"]
+tags: ["生活"]
 ---
 
 
