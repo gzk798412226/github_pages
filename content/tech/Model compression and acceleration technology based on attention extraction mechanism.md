@@ -3,7 +3,8 @@ title: "Model compression and acceleration technology based on attention extract
 date: 2022-05-26T21:06:54+08:00
 draft: false
 categories: ["tech"]
-tags: ["技术"]
+tags: ["技术", "论文", "机器学习"]
+weight: 20
 ---
 <h1 align = "center">Model compression and acceleration technology based on attention extraction mechanism
 </h1>

@@ -3,7 +3,7 @@ title: "pytorch常用代码"
 date: 2022-01-24T14:32:09+08:00
 draft: false
 categories: ["tech"]
-tags: ["技术"]
+tags: ["技术", "PyTorch", "深度学习", "代码"]
 ---
 
 深度学习的pytorch和tensorflow的gpu版本踩坑记。遂记录以防继续踩坑

@@ -3,7 +3,7 @@ title: "使用Cloudflare搭建个人静态网站"
 date: 2023-04-23T20:37:02+09:00
 draft: false
 categories: ["tech"]
-tags: ["技术"]
+tags: ["技术", "Cloudflare", "静态网站", "部署"]
 ---
 # github pages VS vps VS cloudflare
 众所周知，cloudflare pages和github pages是竞争产品，在朋友的介绍下见识到了cloudflare服务器的性能确实优于github。

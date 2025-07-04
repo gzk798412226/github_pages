@@ -1,9 +1,10 @@
 ---
-title: "使用hugo在vps上部署静态网站"
+title: "使用Hugo在VPS上部署静态网站"
 date: 2022-01-14T15:28:45Z
 draft: false
 categories: ["tech"]
-tags: ["技术"]
+tags: ["技术", "Hugo", "VPS", "部署"]
+weight: 30
 ---
 
 朋友推荐给我使用hugo写blog，但是由于初期是在是找不到服务器去搭建，所以用github pages代替。体验实在是一言难尽，无论是推送指定分支还是github服务器的刷新延迟。最近

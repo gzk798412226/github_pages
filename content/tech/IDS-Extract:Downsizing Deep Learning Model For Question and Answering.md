@@ -3,7 +3,8 @@ title: "IDS-Extract:Downsizing Deep Learning Model For Question and Answering"
 date: 2022-12-23T22:11:35+09:00
 draft: false
 categories: ["tech"]
-tags: ["技术"]
+tags: ["技术", "论文", "机器学习"]
+weight: 10
 ---
 
 Published in: 2023 International Conference on Electronics, Information, and Communication (ICEIC)

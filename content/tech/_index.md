@@ -1,6 +1,6 @@
 ---
 title: "Tech"
-date: 2025-07-05T00:00:00+09:00
+date: 2021-05-01T00:00:00+09:00
 draft: false
 categories: ["tech"]
 tags: ["技术"]
