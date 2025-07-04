@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://gzk798412226.github.io/github_pages/"
+baseURL = "https://gzk798412226.github.io/"
 title = "Hugo 主题 MemE"
 languageCode = "zh-CN"
 hasCJKLanguage = true
