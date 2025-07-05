@@ -299,7 +299,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["我希望你读很多书", "走很远的路"," 我希望你爱很多人","也被很多人爱。 我希望你走过人山人海","也遍览山河湖海","我希望你看纸质书","送手写的祝福"," 我要你独立坚强温暖明亮","我要你在这寡淡的世上","深情的活"]
+    homePoetry = ["我希望你读很多书", "走很远的路"," 我希望你爱很多人","也被很多人爱","我希望你走过人山人海","也遍览山河湖海","我希望你看纸质书","送手写的祝福"," 我要你独立坚强温暖明亮","我要你在这寡淡的世上","深情的活"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -1111,10 +1111,10 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否开启
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否显示（全局设置）
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # 说明：文章的 Front Matter 中的 `badge`
     #      的优先级高于此处
 
@@ -1128,10 +1128,10 @@ uglyURLs = false
     # 文章的 Git 版本信息
 
     # 是否开启
-    enablePostGitInfo = false
+    enablePostGitInfo = true
 
     # 是否显示（全局设置）
-    displayPostGitInfo = false
+    displayPostGitInfo = true
     # 说明：文章的 Front Matter 中的 `gitinfo`
     #      的优先级高于此处
 
