@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Zikun Guo",
+  "alternateName": ["郭子坤", "과자", "铅笔与橡皮"],
+  "description": "PhD student in Artificial Intelligence at Kyungpook National University, specializing in LLM architecture design and optimization",
+  "url": "https://gzk798412226.github.io/",
+  "email": "gzk798412226@gmail.com",
+  "jobTitle": "PhD Student in Artificial Intelligence",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Kyungpook National University",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Daegu",
+      "addressCountry": "South Korea"
+    }
+  },
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "Kyungpook National University",
+      "description": "Master's in Artificial Intelligence"
+    },
+    {
+      "@type": "Organization", 
+      "name": "Inner Mongolia University of Finance and Economics"
+    }
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Large Language Models",
+    "Deep Learning",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Software Engineering"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "AI Researcher",
+    "description": "Research in LLM architecture design and optimization"
+  },
+  "sameAs": [
+    "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID",
+    "https://ieeexplore.ieee.org/author/YOUR_IEEE_ID",
+    "https://github.com/gzk798412226"
+  ]
+}

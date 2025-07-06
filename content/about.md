@@ -14,9 +14,6 @@ draft: false
 <img src=https://z3.ax1x.com/2021/08/12/fdKWUs.jpg width="300"/>
 
 
-👋你好
-
-
 我的名字叫Zikun。目前是庆北国立大学人工智能系的博士研究生，主要研究方向是LLM架构设计及优化。
 
 本站使用Github持续更新，使用[hugo](https://gohugo.io/)搭建，部署在GitHub Pages上，

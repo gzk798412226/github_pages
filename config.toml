@@ -6,7 +6,7 @@ title = "铅笔与橡皮"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "copyright hugo"
+copyright = "© 2025 Zikun Guo. All rights reserved."
 
 # 主题选择
 theme = "meme"
@@ -329,7 +329,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "这是자곤的生活与技术博客"
+    siteDescription = "Zikun Guo (郭子坤) - PhD student in AI at Kyungpook National University, specializing in LLM optimization and deep learning research. Personal blog sharing insights on artificial intelligence, technology, and life experiences."
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -1476,11 +1476,11 @@ uglyURLs = false
     # 作者信息
     [params.author]
         # 名字
-        name = "铅笔与橡皮"
+        name = "Zikun Guo"
         # 邮箱
         email = "gzk798412226@gmail.com"
         # 座右铭或简介
-        motto = "HelloWorld"
+        motto = "AI Researcher | PhD in Artificial Intelligence | LLM Optimization"
         # 头像
         avatar = "/icons/apple-touch-icon.png"
         # 网站（默认值：baseURL）

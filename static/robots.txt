@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gzk798412226.github.io/sitemap.xml
+
+# Specific pages for Zikun Guo
+Allow: /about/
+Allow: /categories/tech/
+Allow: /categories/life/
+Allow: /posts/
+
+# Important keywords
+# Zikun Guo, AI researcher, PhD student, LLM, deep learning
