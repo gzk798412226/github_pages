@@ -5,16 +5,10 @@ draft: false
 ---
 
 
-
-
-
-<h1 align = "center">关于</h1>
-你好，我是铅笔与橡皮，欢迎你来到我的网站。
+你好，我是Zikun，欢迎你来到我的网站。目前是庆北国立大学人工智能系的博士研究生，主要研究方向是LLM架构设计及优化。
 
 <img src=https://z3.ax1x.com/2021/08/12/fdKWUs.jpg width="300"/>
-
-
-我的名字叫Zikun。目前是庆北国立大学人工智能系的博士研究生，主要研究方向是LLM架构设计及优化。
+本人总是把东西乱放，然后放着放着就丢了，譬如小时候的合影，日记或者笔记本，这让我感到自责， 于是在一位朋友推荐下搭建了这个网站：有话说就写一写，没啥事就呆着，非常的自由与随意。
 
 本站使用Github持续更新，使用[hugo](https://gohugo.io/)搭建，部署在GitHub Pages上，
 主题为[MemE](https://github.com/reuixiy/hugo-theme-meme.git)，
