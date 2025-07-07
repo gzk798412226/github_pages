@@ -1,6 +1,6 @@
 ---
 title: "从哲学视角看Bible"
-date: 2023-09-24T18:55:51+09:00
+date: 2024-01-24T18:55:51+09:00
 draft: false
 categories: ["life"]
 tags: ["生活", "哲学", "宗教研究", "理性思辨"]
